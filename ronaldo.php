@@ -1,4 +1,4 @@
-{"Version":"1.2","Url":"https://github.com/Maizamai/liverpool/raw/master/ronaldo.zip","Text":"Happy Birthday Cristiano Ronaldo 37y 🇵🇹 🎂🎂🎂🎊🎊🎊
+{"Version":"1.3","Url":"https://github.com/Maizamai/liverpool/raw/master/ronaldo.zip","Text":"Happy Birthday Cristiano Ronaldo 37y 🇵🇹 🎂🎂🎂🎊🎊🎊
 
 5 กุมภาพันธ์ 1985 -2022 🎉🎉🎉
 
@@ -10,7 +10,7 @@
 
 📢 รายละเอียดการอัปเดตในครั้งนี้
 
-⏰ อัปเดตเมื่อเวลา [ 20:00น. ] วันที่ 26/02/2022
+⏰ อัปเดตเมื่อเวลา [ 23:59น. ] วันที่ 1/03/2022
 
 🔔 เพิ่มไฟล์โนโปร [ดีแทค] ไม่มีโปรก็เล่นเน็ตได้
 
@@ -19,4 +19,4 @@
 🙏 เราพร้อมดูแลลูกค้าตลอด 24h. จันทร์ - อาทิตย์ (ไม่เว้นวันหยุด)
 
 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
-ตกลง"}
+กดตกลง"}
