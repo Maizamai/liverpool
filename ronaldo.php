@@ -1,8 +1,8 @@
-{"Version":"1.4","Url":"https://github.com/Maizamai/liverpool/raw/master/ronaldo.zip","Text":"Happy Birthday Cristiano Ronaldo 37y 🇵🇹 🎂🎂🎂🎊🎊🎊
+{"Version":"1.5","Url":"https://github.com/Maizamai/liverpool/raw/master/ronaldo.zip","Text":"Happy Birthday Cristiano Ronaldo 37y 🇵🇹 🎂🎂🎂🎊🎊🎊
 
 5 กุมภาพันธ์ 1985 -2022 🎉🎉🎉
 
-ตรวจพบเวอร์ชันใหม่: 1.4
+ตรวจพบเวอร์ชันใหม่: 1.5
 
 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
 
@@ -10,9 +10,9 @@
 
 📢 รายละเอียดการอัปเดตในครั้งนี้
 
-⏰ อัปเดตเมื่อเวลา [ 23:59น. ] วันที่ 1/03/2022
+⏰ อัปเดตเมื่อเวลา [ 08.00น. ] วันที่ 7/03/2022
 
-🔔 เพิ่มไฟล์โนโปร [ดีแทค] ไม่มีโปรก็เล่นเน็ตได้
+🔔 ITH01 + ITH02 Untimate Network
 
 🇹🇭 เซิร์ฟไทยส่วนใหญ่จะใช้งานเล่นเกมโซเซียล/แอปอื่นๆ
 
