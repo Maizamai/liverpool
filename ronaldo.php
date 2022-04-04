@@ -1,4 +1,4 @@
-{"Version":"1.6","Url":"https://github.com/Maizamai/liverpool/raw/master/ronaldo.zip","Text":"Happy Birthday Cristiano Ronaldo 37y 🇵🇹 🎂🎂🎂🎊🎊🎊
+{"Version":"1.7","Url":"https://github.com/Maizamai/liverpool/raw/master/ronaldo.zip","Text":"Happy Birthday Cristiano Ronaldo 37y 🇵🇹 🎂🎂🎂🎊🎊🎊
 
 5 กุมภาพันธ์ 1985 -2022 🎉🎉🎉
 
@@ -10,9 +10,9 @@
 
 📢 รายละเอียดการอัปเดตในครั้งนี้
 
-⏰ อัปเดตเมื่อเวลา [ 17.00น. ] วันที่ 19/03/2022
+⏰ อัปเดตเมื่อเวลา [ 21.00น. ] วันที่ 4/04/2022
 
-🔔 ITH03-Readyidc 1000 TMB
+🔔 ITH02-Readyidc 1000 TMB
 
 🇹🇭 เซิร์ฟไทยส่วนใหญ่จะใช้งานเล่นเกมโซเซียล/แอปอื่นๆ
 
