@@ -1,8 +1,8 @@
-{"Version":"2.1","Url":"https://github.com/Maizamai/liverpool/raw/master/ronaldo.zip","Text":"Happy Birthday Cristiano Ronaldo 37y 🇵🇹 🎂🎂🎂🎊🎊🎊
+{"Version":"2.3","Url":"https://github.com/Maizamai/liverpool/raw/master/ronaldo.zip","Text":"Happy Birthday Cristiano Ronaldo 37y 🇵🇹 🎂🎂🎂🎊🎊🎊
 
-5 กุมภาพันธ์ 1985 -2022 🎉🎉🎉
+5 กุมภาพันธ์ 1985 -2023 🎉🎉🎉
 
-ตรวจพบเวอร์ชันใหม่: 2.1
+ตรวจพบเวอร์ชันใหม่: 2.3
 
 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
 
@@ -10,7 +10,7 @@
 
 📢 รายละเอียดการอัพเดตในครั้งนี้
 
-⏰ อัปเดตเมื่อเวลา [ 19.00น. ] วันที่ 3/05/2022
+⏰ อัปเดตเมื่อเวลา [ 08.00น. ] วันที่ 13/03/2023
 
 🔔 Z.COM 100 MB NO LIMITATIONS 
 
