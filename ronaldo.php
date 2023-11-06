@@ -1,16 +1,16 @@
-{"Version":"2.6","Url":"https://github.com/Maizamai/liverpool/raw/master/ronaldo.zip","Text":"Happy Birthday Cristiano Ronaldo 37y 🇵🇹 🎂🎂🎂🎊🎊🎊
+{"Version":"2.7","Url":"https://github.com/Maizamai/liverpool/raw/master/ronaldo.zip","Text":"Happy Birthday Cristiano Ronaldo 37y 🇵🇹 🎂🎂🎂🎊🎊🎊
 
 5 กุมภาพันธ์ 1985 -2024 🎉🎉🎉
 
-ตรวจพบเวอร์ชันใหม่: 2.6
+ตรวจพบเวอร์ชันใหม่: 2.7
 
 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
 
-💗 ยินดีต้อนรับสู่ CR7 VPN 37y
+💗 ยินดีต้อนรับสู่ CR7 VPN 38y
 
 📢 รายละเอียดการอัพเดตในครั้งนี้
 
-⏰ อัปเดตเมื่อเวลา [ 07.00น. ] วันที่ 6/11/2023
+⏰ อัปเดตเมื่อเวลา [ 19.00น. ] วันที่ 6/11/2023
 
 🔔 SIAMDATA 100 MB NO LIMITATIONS 
 
